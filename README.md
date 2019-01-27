@@ -1,6 +1,6 @@
 # Data-Mining-Course-Project
-Opioid Prescribers Prediction
-Making predictions and identifying prescriber outliers through cluster analysis 
+
+Opioid Prescribers Prediction and identifying prescriber outliers through cluster analysis 
 
 This repository contains:
 
